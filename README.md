@@ -5,24 +5,24 @@ Program can detect the longest palindrome .
 If there are two palindrome which having same length ,print the palindrome string by dictionary order.
 
 # Input_1:
-5
-pullup
-amda
-abbaccc
-oaoa
+5<br>
+pullup<br>
+amda<br>
+abbaccc<br>
+oaoa<br>
 ccccaba
 # Output_1:
-PULLUP\n
-A\n
-ABBA\n
-AOA\n
-CCCC\n
+PULLUP<br>
+A<br>
+ABBA<br>
+AOA<br>
+CCCC
 # Input_2:
-3
-GAG
-MADAM
+3<br>
+GAG<br>
+MADAM<br>
 ADAM
 # Output_2:
-GAG\n
-MADAM\n
-ADA\n
+GAG<br>
+MADAM<br>
+ADA
