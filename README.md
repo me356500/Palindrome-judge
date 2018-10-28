@@ -15,9 +15,10 @@ abbaccc
 oaoa
 ccccaba
 
+
 Output:
-PULLUP
-A
-ABBA
-AOA
-CCCC
+PULLUP\n
+A\n
+ABBA\n
+AOA\n
+CCCC\n
